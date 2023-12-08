@@ -1,0 +1,80 @@
+
+.inputdata{
+    position: relative;
+    right: 20px;
+    width: 300px;
+    height: 40px;
+    border-radius: 4px;
+}
+.addadata{
+    position: relative;
+    left: 10px;
+    height: 40px;
+    background-color:darkslategray;
+    box-shadow: rgb(31, 1, 1)128, 128, 128;
+}
+.listdata{
+    border: 1px solid black;
+    position: relative;
+    list-style-type: none;
+    text-align: left;
+    width: 1000px;
+
+   padding: 30px;
+   margin: 20px;
+    height: 25px;
+  
+}
+.buttondata{  
+    height: 25px;
+    position: relative;
+    left: 850px;
+    bottom: 22px;
+}
+.completestyle{
+    border-collapse: collapse;
+    height: 30px;
+    position: relative;
+  right: 30px;
+ background-color: rgba(17, 140, 17, 0.731);
+  
+}
+.editdata{
+    border-collapse: collapse;
+    height: 30px;
+    position: relative;
+    right: 15px;
+    background-color: rgba(197, 239, 11, 0.836);
+}
+.deletedata{
+    border-collapse: collapse;
+    height: 30px;
+     background-color: rgba(194, 15, 15, 0.893);
+}
+
+.heading{
+    text-align: center;
+    font-size: 40px;
+    /* text-shadow: 4px 4px rgb(1, 33, 41); */
+}
+p{
+    position: relative;
+right: 130px;
+    top: 20px;
+    font-size: 20px;
+   
+}
+.input1{
+
+    width: 40px;
+    height: 20px;
+    position: relative;
+    right: 30px;
+    bottom: 22px;
+}
+body{
+    background-image: linear-gradient(skyblue,gray);
+}
+.error-message{
+    color: red;
+}
